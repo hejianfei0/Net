@@ -1,0 +1,7 @@
+C:\公司项目\Net\Net\bin\Debug\Net.exe.config
+C:\公司项目\Net\Net\bin\Debug\Net.exe
+C:\公司项目\Net\Net\bin\Debug\Net.pdb
+C:\公司项目\Net\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\公司项目\Net\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\公司项目\Net\Net\obj\Debug\Net.exe
+C:\公司项目\Net\Net\obj\Debug\Net.pdb

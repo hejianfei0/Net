@@ -1,0 +1,9 @@
+C:\公司项目\Net\CSharpNet\bin\Debug\CSharpNet.dll
+C:\公司项目\Net\CSharpNet\bin\Debug\CSharpNet.pdb
+C:\公司项目\Net\CSharpNet\obj\Debug\CSharpNet.csprojAssemblyReference.cache
+C:\公司项目\Net\CSharpNet\obj\Debug\CSharpNet.csproj.CoreCompileInputs.cache
+C:\公司项目\Net\CSharpNet\obj\Debug\CSharpNet.dll
+C:\公司项目\Net\CSharpNet\obj\Debug\CSharpNet.pdb
+C:\公司项目\Net\CSharpNet\bin\Debug\Newtonsoft.Json.dll
+C:\公司项目\Net\CSharpNet\bin\Debug\Newtonsoft.Json.xml
+C:\公司项目\Net\CSharpNet\obj\Debug\CSharpNet.csproj.CopyComplete
